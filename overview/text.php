@@ -27,5 +27,6 @@ $TestSend = new TestSend();
 				echo $TestSend->testSend();
 			?>
 		</div>
+		
 	</body>
 </html> 
