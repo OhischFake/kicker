@@ -28,4 +28,4 @@ $TestSend = new TestSend();
 			?>
 		</div>
 	</body>
-</html>
+</html> 
